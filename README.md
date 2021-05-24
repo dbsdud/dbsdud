@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:duddl425@gmail.com)](mailto:duddl425@gmail.com)
 </div>
 
+---
 <div align="center">
 
 # Welcome DBSDUD's Github 🤙
@@ -22,6 +23,9 @@
 
 ## 🏆 AWARDS
 
+<br/>
+
+---
 ## 🗓 TODO LIST
  - [ ] 프로젝트 정리 
  - [ ] 연구 정리 
