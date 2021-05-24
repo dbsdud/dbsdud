@@ -7,10 +7,26 @@
 
 <div align="center">
 
-# DBSDUD's Github 🤙
+# Welcome DBSDUD's Github 🤙
 </div>
 
 ## 🏡 MY BLOG
 * ***[Naver Blog](https://blog.naver.com/duddl425)***
-* ***[Tistory](https://dbsdudghkd.tistory.com)***
+* ***[Tistory](https://dbsdudghkd.tistory.com)*** 
 
+## 💻 PROJECT
+
+## 🔍 RESEARCH
+
+## 🧾 PAPERS
+
+## 🏆 AWARDS
+
+## 🗓 TODO LIST
+-[ ] 프로젝트 정리
+-[ ] 연구 정리
+-[ ] 논문 정리
+-[ ] 수상 정리
+-[ ] 블로그 통합
+-[ ] 경력 도표 만들기
+-[ ] 헬스장 등록
