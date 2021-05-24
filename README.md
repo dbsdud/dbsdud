@@ -9,6 +9,7 @@
 <div align="center">
 
 # Welcome DBSDUD's Github 🤙
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dbsdud)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🏡 MY BLOG
