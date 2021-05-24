@@ -10,7 +10,7 @@
 # DBSDUD's Github 🤙
 </div>
 
----
 ## 🏡 MY BLOG
-* [Naver Blog](https://blog.naver.com/duddl425)
-* [Tistory](https://dbsdudghkd.tistory.com)
+* ***[Naver Blog](https://blog.naver.com/duddl425)***
+* ***[Tistory](https://dbsdudghkd.tistory.com)***
+
